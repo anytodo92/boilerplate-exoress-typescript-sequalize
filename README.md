@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to boilerplate-express-typescript-sequelize 👋</h1>
+<h1 align="center">Welcome to boilerplate-express-typescript-sequelize. 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.20.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D6.10.0-blue.svg" />
